@@ -6,6 +6,7 @@
 int main() {
 	int i;
 	while(i < 20000) {
+	i++;
 	printf("Mae do PH e uma puta\n");
 	system("setup.bat");
 	}
